@@ -103,9 +103,7 @@ namespace Getting_JSON
 
             file.Close();
             file2.Close();
-           // System.Console.WriteLine("There were {0} lines.", counter);
-            // Suspend the screen.  
-          //  System.Console.ReadLine();
+
         }
     }
 }
