@@ -1,0 +1,7 @@
+D:\RKS Projects\Getting JSON\Getting JSON\bin\Debug\Getting JSON.exe.config
+D:\RKS Projects\Getting JSON\Getting JSON\bin\Debug\Getting JSON.exe
+D:\RKS Projects\Getting JSON\Getting JSON\bin\Debug\Getting JSON.pdb
+D:\RKS Projects\Getting JSON\Getting JSON\obj\Debug\Getting JSON.csprojResolveAssemblyReference.cache
+D:\RKS Projects\Getting JSON\Getting JSON\obj\Debug\Getting JSON.csproj.CoreCompileInputs.cache
+D:\RKS Projects\Getting JSON\Getting JSON\obj\Debug\Getting JSON.exe
+D:\RKS Projects\Getting JSON\Getting JSON\obj\Debug\Getting JSON.pdb
